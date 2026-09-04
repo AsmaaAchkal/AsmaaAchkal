@@ -1,6 +1,6 @@
 # Hi, I'm Asmaa ACHKAL 👋
 
-### Software Engineer | Full-Stack Developer | Artificial Intelligence & Data Analytics
+### Software Engineer | Full-Stack Developer | Web, Mobile & AI Applications
 
 Master's graduate in Computer Engineering and Data Analytics, passionate about designing and developing intelligent web and mobile applications. I specialize in Full-Stack Development, Data Analytics, and AI-powered solutions.
 
